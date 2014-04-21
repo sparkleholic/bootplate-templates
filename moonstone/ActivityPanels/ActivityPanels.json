@@ -1,0 +1,11 @@
+{
+    "id": "bootplate-moonstone-ActivityPanels",
+    "type": "template",
+    "description": "Moonstone ActivityPanels",
+    "files": [
+      {
+        "url": "@PLUGINDIR@/templates/bootplate-templtes/moonstone/ActivityPanels/source",
+		"prefixToAdd": "source"
+      }
+    ]
+}
